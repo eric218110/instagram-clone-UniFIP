@@ -5,7 +5,7 @@ Projeto da cadeira de **Dispositivo moveis**
 
 ### Descrição
 
-> App intagram clone.
+> App instagram clone.
 
 ### Tecnologias 
 
